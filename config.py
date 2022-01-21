@@ -1,5 +1,5 @@
 # Deploy
-HEROKU_URL = 'https://*******.herokuapp.com/'   # Your Heroku App URL (or others)
+HEROKU_URL = 'https://ohmydaevtwitch.herokuapp.com/'   # Your Heroku App URL (or others)
 
 
 # Twitch
